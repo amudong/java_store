@@ -1,0 +1,48 @@
+@charset "UTF-8";
+body {
+	background:url(../img/002.png);
+}
+.insert1{
+    width: 48%;
+    position:absolute;
+    top:50px;
+    left:200px;
+    text-align: left;
+    background-color: rgba(80, 80, 71, 0.3);
+    padding: 20px;
+    float: right;
+    border-radius: 20px;
+}
+	.insert1 input[type="text"] { 
+    padding:10px 40px 10px 10px;
+	width:50%;
+	border:1px solid #fff;
+	color:#000000;
+	text-align:left;
+	outline:none;
+	font-size:18px;
+	margin-top:4%;
+	font-weight: 300;
+	font-family: 'Muli', sans-serif;
+	/*-- W3Layouts --*/
+	border-radius: 4px;
+	}
+	.insert1 select { 
+    padding:10px 40px 10px 10px;
+	width:57%;
+	border:1px solid #fff;
+	color:#000000;
+	text-align:left;
+	outline:none;
+	font-size:18px;
+	margin-top:4%;
+	font-weight: 300;
+	font-family: 'Muli', sans-serif;
+	/*-- W3Layouts --*/
+	border-radius: 4px;
+	}
+
+	.submit1 {
+	/*text-align:center;*/
+    margin-left: 80px;
+}

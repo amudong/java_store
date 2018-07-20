@@ -1,0 +1,68 @@
+@charset "UTF-8";
+
+body{
+	 background:url(../img/002.png);
+	
+}
+.tablegoods{
+    width: 750px;
+    position: absolute;
+    top: 50px;
+    left: 70px;
+}
+.tablemd{
+    width: 500px;
+    position: absolute;
+    top: 50px;
+    left: 70px;
+}
+.tableusernh{
+    width: 750px;
+    position: absolute;
+    top: 50px;
+    left: 70px;
+}
+.tableusern{
+    width: 750px;
+    position: absolute;
+    top: 50px;
+    left: 70px;
+}
+.tablesup{
+    width: 400px;
+    position: absolute;
+    top: 50px;
+    left: 250px;
+}
+.tablesup table{
+	background:#FFFFFF;
+	width:400px;
+	
+}
+.tableusernh table{
+	background:#FFFFFF;
+	width:750px;
+	
+}
+.tablemd table{
+	background:#FFFFFF;
+	width:500px;
+	
+}
+.tableusern table{
+	background:#FFFFFF;
+	width:650px;
+	
+}
+
+
+.tablegoods table{
+	background:#FFFFFF;
+	width:750px;
+	
+}
+
+div.page {    
+
+	text-align:center;
+    }
